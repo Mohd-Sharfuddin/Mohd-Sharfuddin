@@ -1,3 +1,4 @@
+![alt text](https://gifdb.com/images/high/hackers-matrix-coding-4gtz6lwrja1y76g1.webp)
 
 <h1 align="center">Hi 👋, I'm Mohd Sharfuddin</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
